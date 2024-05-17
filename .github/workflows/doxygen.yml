@@ -1,0 +1,71 @@
+name: Build Doxygen and publish to GitHub pages
+
+on:
+  workflow_dispatch:
+    inputs:
+      branch:
+        description: 'Branch to be used across all DAQ repos wherever possible.'
+        default: develop
+
+  build_the_develop_release_spack:
+    name: build_dev_release_spack
+    runs-on: daq
+    needs: make_nightly_tag
+    container:
+      image: ghcr.io/dune-daq/alma9-slim-externals:v2.1
+    defaults:
+      run:
+        shell: bash
+
+    steps:
+    - name: Checkout daq-release
+      uses: actions/checkout@v4
+      with:
+        path: daq-release
+
+    - name: setup directories and install spack for the coredaq release
+      env:
+        NIGHTLY_TAG: ${{needs.make_nightly_tag.outputs.tag}}
+      run: |
+          export BASE_RELEASE_DIR=/cvmfs/dunedaq-development.opensciencegrid.org/nightly/NB${NIGHTLY_TAG}
+          export DET_RELEASE_DIR=/cvmfs/dunedaq-development.opensciencegrid.org/nightly/NFD${NIGHTLY_TAG}
+          export OS=almalinux9
+          source daq-release/.github/workflows/wf-setup-tools.sh
+
+          daq-release/scripts/spack/build-release.sh $BASE_RELEASE_DIR $DET_RELEASE_DIR core $OS ${{ github.event.inputs.feature-branch }}
+
+          cd $BASE_RELEASE_DIR/../
+          tar_and_stage_release ${BASE_RELEASE_TAG}
+
+jobs:
+  build-doxygen:
+    name: build_doxygen
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        shell: bash
+
+    steps:
+    - name: Checkout dunedaqdoxy
+      uses: actions/checkout@v2
+      with: 
+        path: dunedaqdoxy
+
+    - name: Checkout packages and generate Doxyfile
+      run: |
+        cd $GITHUB_WORKSPACE/dunedaqdoxy
+        pwd
+
+    - name: Doxygen Action
+      uses: mattnotmitt/doxygen-action@v1.1.0
+      with:
+        doxyfile-path: "$GITHUB_WORKSPACE/dunedaqdoxy/Doxyfile"
+        working-directory: "$GITHUB_WORKSPACE/dunedaqdoxy"
+
+    - name: Deploy
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        # Default Doxyfile build documentation to html directory.
+        # Change the directory if changes in Doxyfile
+        publish_dir: ./html
