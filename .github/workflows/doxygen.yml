@@ -17,7 +17,7 @@ jobs:
 
     - name: Checkout packages and generate Doxyfile
       run: |
-        cd $GITHUB_WORKSPACE
+        #cd $GITHUB_WORKSPACE
         echo "Am currently in $(pwd)"
         echo "GITHUB_WORKSPACE is $GITHUB_WORKSPACE"
         mkdir -p sourcecode
@@ -27,8 +27,8 @@ jobs:
     - name: Doxygen Action
       uses: mattnotmitt/doxygen-action@v1.1.0
       with:
-        doxyfile-path: "$GITHUB_WORKSPACE/Doxyfile"
-        working-directory: "$GITHUB_WORKSPACE/"
+        doxyfile-path: "./Doxyfile"
+        working-directory: "."
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
