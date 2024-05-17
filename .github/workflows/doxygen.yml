@@ -20,6 +20,8 @@ jobs:
     - name: Checkout packages and generate Doxyfile
       run: |
         cd $GITHUB_WORKSPACE/dunedaqdoxy
+        echo "Am currently in $(pwd)"
+        echo "GITHUB_WORKSPACE is $GITHUB_WORKSPACE"
         mkdir -p sourcecode
         ./checkout-daq-package.py -i ddaq_release.yaml -a -o ./sourcecode
         ./doxygen_gen.py
