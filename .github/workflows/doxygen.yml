@@ -1,11 +1,7 @@
 name: Build Doxygen and publish to GitHub pages
 
 on:
-  workflow_dispatch:
-    inputs:
-      branch:
-        description: 'Branch to be used across all DAQ repos wherever possible.'
-        default: develop
+  workflow_dispatch
 
 jobs:
   build-doxygen:
@@ -41,3 +37,4 @@ jobs:
         # Default Doxyfile build documentation to html directory.
         # Change the directory if changes in Doxyfile
         publish_dir: ./html
+
