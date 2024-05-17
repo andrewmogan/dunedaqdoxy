@@ -21,7 +21,7 @@ jobs:
       run: |
         cd $GITHUB_WORKSPACE/dunedaqdoxy
         mkdir -p sourcecode
-        ./checkout-daq-package.py -i ddaq_release.yml -a -o ./sourcecode
+        ./checkout-daq-package.py -i ddaq_release.yaml -a -o ./sourcecode
         ./doxygen_gen.py
 
     - name: Doxygen Action
