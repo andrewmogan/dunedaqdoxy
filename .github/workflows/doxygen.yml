@@ -14,12 +14,10 @@ jobs:
     steps:
     - name: Checkout dunedaqdoxy
       uses: actions/checkout@v2
-      with: 
-        path: dunedaqdoxy
 
     - name: Checkout packages and generate Doxyfile
       run: |
-        cd $GITHUB_WORKSPACE/dunedaqdoxy
+        cd $GITHUB_WORKSPACE
         echo "Am currently in $(pwd)"
         echo "GITHUB_WORKSPACE is $GITHUB_WORKSPACE"
         mkdir -p sourcecode
@@ -29,8 +27,8 @@ jobs:
     - name: Doxygen Action
       uses: mattnotmitt/doxygen-action@v1.1.0
       with:
-        doxyfile-path: "$GITHUB_WORKSPACE/dunedaqdoxy/Doxyfile"
-        working-directory: "$GITHUB_WORKSPACE/dunedaqdoxy"
+        doxyfile-path: "$GITHUB_WORKSPACE/Doxyfile"
+        working-directory: "$GITHUB_WORKSPACE/"
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
