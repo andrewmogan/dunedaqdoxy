@@ -7,36 +7,6 @@ on:
         description: 'Branch to be used across all DAQ repos wherever possible.'
         default: develop
 
-  build_the_develop_release_spack:
-    name: build_dev_release_spack
-    runs-on: daq
-    needs: make_nightly_tag
-    container:
-      image: ghcr.io/dune-daq/alma9-slim-externals:v2.1
-    defaults:
-      run:
-        shell: bash
-
-    steps:
-    - name: Checkout daq-release
-      uses: actions/checkout@v4
-      with:
-        path: daq-release
-
-    - name: setup directories and install spack for the coredaq release
-      env:
-        NIGHTLY_TAG: ${{needs.make_nightly_tag.outputs.tag}}
-      run: |
-          export BASE_RELEASE_DIR=/cvmfs/dunedaq-development.opensciencegrid.org/nightly/NB${NIGHTLY_TAG}
-          export DET_RELEASE_DIR=/cvmfs/dunedaq-development.opensciencegrid.org/nightly/NFD${NIGHTLY_TAG}
-          export OS=almalinux9
-          source daq-release/.github/workflows/wf-setup-tools.sh
-
-          daq-release/scripts/spack/build-release.sh $BASE_RELEASE_DIR $DET_RELEASE_DIR core $OS ${{ github.event.inputs.feature-branch }}
-
-          cd $BASE_RELEASE_DIR/../
-          tar_and_stage_release ${BASE_RELEASE_TAG}
-
 jobs:
   build-doxygen:
     name: build_doxygen
