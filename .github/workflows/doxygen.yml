@@ -54,7 +54,9 @@ jobs:
     - name: Checkout packages and generate Doxyfile
       run: |
         cd $GITHUB_WORKSPACE/dunedaqdoxy
-        pwd
+        mkdir -p sourcecode
+        ./checkout-daq-package.py -i ddaq_release.yml -a -o ./sourcecode
+        ./doxygen_gen.py
 
     - name: Doxygen Action
       uses: mattnotmitt/doxygen-action@v1.1.0
