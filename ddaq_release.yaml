@@ -1,7 +1,7 @@
 ---
-    release: dunedaq-develop
+    release: coredaq-develop
 
-    type: dunedaq
+    type: coredaq
 
     externals:
         - name: boost
@@ -17,7 +17,7 @@
           version: 3.9.0
           variant: ~
         - name: pistache
-          version: dunedaq-v2.8.0
+          version: coredaq-v2.8.0
           variant: ~
         - name: highfive
           version: 2.7.1
@@ -56,7 +56,7 @@
           version: 1.56.2
           variant: "cxxstd=17"
         - name: felix-software
-          version: dunedaq-v4.2.0
+          version: coredaq-v4.5.1
           variant: ~
         - name: folly
           version: 2021.12.13.00
@@ -120,7 +120,7 @@
           version: 8.7p1
           variant: ~
 
-    dunedaq:
+    coredaq:
         - name: daq-cmake
           version: v2.5.0
           commit: null
