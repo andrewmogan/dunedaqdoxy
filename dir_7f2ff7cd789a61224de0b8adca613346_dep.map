@@ -1,0 +1,22 @@
+<map id="sourcecode/appfwk/include/appfwk" name="sourcecode/appfwk/include/appfwk">
+<area shape="rect" id="node2" href="dir_8cec4892ed5a3423785498a943e2d0af.html" title="detail" alt="" coords="43,137,96,162"/>
+<area shape="poly" id="edge4" href="dir_000006_000042.html" alt="" coords="72,88,72,121,67,121,67,88"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000006_000042.html" title="1" alt="" coords="74,111,81,126"/>
+<area shape="rect" id="node3" href="dir_0a1713e4fb81d523db81c567ef556d2d.html" title="ers" alt="" coords="134,137,173,162"/>
+<area shape="poly" id="edge1" href="dir_000006_000103.html" alt="" coords="85,87,129,124,126,128,81,91"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000006_000103.html" title="2" alt="" coords="127,110,134,125"/>
+<area shape="rect" id="node4" href="dir_54a85b0ba73149a656becc2d555f9f9e.html" title="opmonlib" alt="" coords="197,137,270,162"/>
+<area shape="poly" id="edge2" href="dir_000006_000183.html" alt="" coords="97,86,193,128,190,132,95,91"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000006_000183.html" title="1" alt="" coords="189,114,196,129"/>
+<area shape="rect" id="node5" href="dir_74612d0701f8930964309a79d92afd69.html" title="oksdbinterfaces" alt="" coords="294,137,407,162"/>
+<area shape="poly" id="edge3" href="dir_000006_000176.html" alt="" coords="101,82,289,130,288,135,100,88"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000006_000176.html" title="2" alt="" coords="284,116,291,131"/>
+<area shape="rect" id="node6" href="dir_b620d3bc325baca79d772d7a5b5e4e14.html" title="iomanager" alt="" coords="431,137,513,162"/>
+<area shape="poly" id="edge5" href="dir_000006_000156.html" alt="" coords="101,79,417,133,416,139,100,85"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000006_000156.html" title="2" alt="" coords="411,120,418,135"/>
+<area shape="rect" id="node7" href="dir_bd573d70419336b23551d1d967e5b64a.html" title="utilities" alt="" coords="537,137,599,162"/>
+<area shape="poly" id="edge6" href="dir_000006_000287.html" alt="" coords="101,77,276,96,396,112,522,134,521,139,396,117,276,101,100,82"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000006_000287.html" title="1" alt="" coords="517,120,524,135"/>
+<area shape="rect" id="clust2" href="dir_7f2ff7cd789a61224de0b8adca613346.html" alt="" coords="27,52,112,173"/>
+<area shape="rect" id="clust1" href="dir_ea62229d68723189108c6a4052cbc047.html" title="include" alt="" coords="16,16,123,184"/>
+</map>

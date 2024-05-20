@@ -1,0 +1,44 @@
+<map id="dbse::SchemaAttributeEditor" name="dbse::SchemaAttributeEditor">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1680,61,1865,87"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="1361,61,1432,87"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1448,71,1679,71,1679,76,1448,76"/>
+<area shape="rect" id="Node000003" href="$classdunedaq_1_1oks_1_1OksClass.html" title="The OKS class." alt="" coords="476,170,636,196"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="576,156,616,115,671,70,704,50,738,33,775,22,813,18,1398,18,1485,22,1571,32,1714,58,1713,63,1570,37,1484,27,1398,23,814,23,776,27,740,38,706,54,674,74,619,119,580,160"/>
+<area shape="rect" id="Node000011" href="$uniondunedaq_1_1oks_1_1OksData_1_1Data.html" title=" " alt="" coords="738,439,892,479"/>
+<area shape="poly" id="edge13_Node000011_Node000003" title=" " alt="" coords="568,210,582,247,602,292,629,338,662,379,704,403,770,436,768,440,701,407,659,383,624,341,597,294,577,249,563,212"/>
+<area shape="rect" id="Node000016" href="$classdunedaq_1_1oks_1_1OksAttribute.html" title="OKS attribute class." alt="" coords="1308,116,1485,141"/>
+<area shape="poly" id="edge23_Node000016_Node000003" title=" " alt="" coords="639,165,660,162,840,145,1020,135,1308,126,1308,132,1020,140,841,150,661,167,640,170"/>
+<area shape="rect" id="Node000004" href="$classdunedaq_1_1oks_1_1OksFile.html" title="Provides interface to the OKS XML schema and data files." alt="" coords="2015,296,2163,321"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="2055,289,2004,258,1935,224,1856,197,1815,189,1774,186,814,186,636,186,636,180,814,180,1774,180,1816,183,1857,192,1937,219,2006,253,2058,284"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="2061,278,2071,271,2089,269,2106,271,2117,277,2120,287,2115,296,2110,294,2114,286,2113,281,2105,276,2089,274,2073,276,2064,282"/>
+<area shape="rect" id="Node000005" href="$classdunedaq_1_1oks_1_1OksKernel.html" title="Provides interface to the OKS kernel." alt="" coords="1690,296,1855,321"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="2045,330,1992,345,1940,350,1889,345,1847,336,1809,324,1810,319,1848,331,1889,340,1940,345,1990,340,2043,325"/>
+<area shape="rect" id="Node000008" href="$classdunedaq_1_1oks_1_1OksObject.html" title="OksObject describes instance of OksClass." alt="" coords="1314,460,1479,485"/>
+<area shape="poly" id="edge18_Node000008_Node000004" title=" " alt="" coords="2049,331,1992,355,1827,415,1753,436,1656,456,1565,468,1480,474,1480,468,1565,463,1655,451,1752,431,1825,410,1990,350,2046,326"/>
+<area shape="poly" id="edge19_Node000003_Node000005" title=" " alt="" coords="1675,316,1504,318,1406,317,1308,311,1108,288,912,257,741,225,616,199,617,194,742,220,913,252,1109,283,1309,306,1406,311,1504,313,1675,310"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="1870,304,1889,304,1991,304,2014,305,2014,310,1991,310,1889,310,1870,310"/>
+<area shape="rect" id="Node000006" href="$classdunedaq_1_1oks_1_1OksProfiler.html" title=" " alt="" coords="1313,221,1480,247"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="1495,241,1574,252,1656,268,1736,292,1734,298,1655,274,1573,258,1495,246"/>
+<area shape="rect" id="Node000007" href="$structdunedaq_1_1oks_1_1LoadErrors.html" title=" " alt="" coords="1313,270,1480,296"/>
+<area shape="poly" id="edge8_Node000005_Node000007" title=" " alt="" coords="1495,287,1690,300,1690,306,1495,292"/>
+<area shape="poly" id="edge9_Node000005_Node000008" title=" " alt="" coords="1494,456,1594,439,1655,425,1689,401,1719,372,1760,320,1764,323,1723,376,1692,405,1657,430,1595,445,1495,461"/>
+<area shape="poly" id="edge14_Node000011_Node000008" title=" " alt="" coords="1298,473,892,463,893,458,1298,467"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="529,529,583,555"/>
+<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="598,536,1313,476,1314,482,599,541"/>
+<area shape="poly" id="edge17_Node000011_Node000009" title=" " alt="" coords="597,527,713,492,755,477,757,482,714,497,599,533"/>
+<area shape="rect" id="Node000010" href="$structdunedaq_1_1oks_1_1OksData.html" title="the structure to pass common parameters to various read() methods of OksData and OksObject class" alt="" coords="993,408,1147,433"/>
+<area shape="poly" id="edge11_Node000008_Node000010" title=" " alt="" coords="1163,432,1314,457,1313,462,1162,438"/>
+<area shape="poly" id="edge25_Node000016_Node000010" title=" " alt="" coords="1102,396,1151,360,1220,304,1282,241,1306,207,1343,169,1377,140,1381,144,1347,173,1310,210,1286,244,1223,307,1154,364,1105,400"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="907,442,992,429,993,435,908,448"/>
+<area shape="rect" id="Node000012" href="$classdunedaq_1_1oks_1_1OksString.html" title="Class OKS string." alt="" coords="475,446,637,472"/>
+<area shape="poly" id="edge15_Node000011_Node000012" title=" " alt="" coords="653,456,737,456,737,462,653,462"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="235,446,312,472"/>
+<area shape="poly" id="edge16_Node000012_Node000013" title=" " alt="" coords="327,456,475,456,475,462,327,462"/>
+<area shape="rect" id="Node000014" href="$classdunedaq_1_1oksdbinterfaces_1_1map.html" title=" " alt="" coords="189,163,357,203"/>
+<area shape="poly" id="edge20_Node000003_Node000014" title=" " alt="" coords="373,180,476,180,476,186,373,186"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="5,163,140,203"/>
+<area shape="poly" id="edge21_Node000014_Node000015" title=" " alt="" coords="156,180,189,180,189,186,156,186"/>
+<area shape="poly" id="edge22_Node000001_Node000016" title=" " alt="" coords="1500,113,1655,91,1697,85,1698,90,1656,97,1500,118"/>
+<area shape="rect" id="Node000017" href="$classdunedaq_1_1oks_1_1OksRange.html" title="OKS range class." alt="" coords="988,69,1152,95"/>
+<area shape="poly" id="edge24_Node000016_Node000017" title=" " alt="" coords="1168,93,1309,113,1308,118,1167,98"/>
+</map>

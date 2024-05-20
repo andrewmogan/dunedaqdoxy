@@ -1,0 +1,24 @@
+<map id="sourcecode/okssystem/include/okssystem/FIFOConnection.hpp" name="sourcecode/okssystem/include/okssystem/FIFOConnection.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="231,5,488,46"/>
+<area shape="rect" id="Node000002" href="$File_8hpp.html" title=" " alt="" coords="205,94,338,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="340,48,298,85,295,81,336,44"/>
+<area shape="rect" id="Node000009" href="$Descriptor_8hpp.html" title=" " alt="" coords="373,94,544,120"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="386,44,433,82,429,86,382,48"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="290,241,344,267"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="278,119,293,167,311,226,306,227,288,168,273,121"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="222,168,279,193"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="271,121,261,153,256,152,265,119"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="140,241,227,267"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="257,122,233,142,211,169,198,198,190,227,185,225,193,196,207,166,229,139,253,118"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="354,168,432,193"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="293,118,360,157,358,162,291,123"/>
+<area shape="rect" id="Node000007" href="$User_8hpp.html" title=" " alt="" coords="5,168,146,193"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="239,123,124,165,122,159,237,118"/>
+<area shape="poly" id="edge9_Node000007_Node000003" title=" " alt="" coords="117,191,276,238,274,243,116,196"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="95,192,154,230,151,235,92,196"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="42,241,109,267"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="78,194,78,226,73,226,73,194"/>
+<area shape="poly" id="edge11_Node000009_Node000003" title=" " alt="" coords="471,119,492,154,496,175,490,195,462,221,428,239,392,249,359,254,358,249,391,244,426,234,459,217,485,192,491,175,487,156,466,122"/>
+<area shape="poly" id="edge12_Node000009_Node000005" title=" " alt="" coords="463,120,462,156,457,177,445,195,417,208,365,221,243,246,242,240,364,216,415,203,442,191,452,175,457,156,457,120"/>
+<area shape="poly" id="edge13_Node000009_Node000006" title=" " alt="" coords="449,122,416,158,412,154,445,118"/>
+</map>

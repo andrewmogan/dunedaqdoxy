@@ -1,0 +1,22 @@
+<map id="sourcecode/oksconfig/src" name="sourcecode/oksconfig/src">
+<area shape="rect" id="node1" href="dir_c7dc4cca7bfd77030088ffdf43214dc3.html" title="include" alt="" coords="26,126,89,152"/>
+<area shape="rect" id="node2" href="dir_5bf717ee5043e9ce1b8052e97ca7fd72.html" title="src" alt="" coords="48,52,88,78"/>
+<area shape="poly" id="edge5" href="dir_000255_000138.html" alt="" coords="69,79,64,111,59,110,64,78"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000255_000138.html" title="4" alt="" coords="67,101,74,116"/>
+<area shape="rect" id="node3" href="dir_0a1713e4fb81d523db81c567ef556d2d.html" title="ers" alt="" coords="112,126,152,152"/>
+<area shape="poly" id="edge1" href="dir_000255_000103.html" alt="" coords="81,76,113,113,109,116,77,80"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000255_000103.html" title="2" alt="" coords="112,99,119,114"/>
+<area shape="rect" id="node4" href="dir_423da03ec53b8759a67a0127239efe6e.html" title="oksutils" alt="" coords="176,126,243,152"/>
+<area shape="poly" id="edge2" href="dir_000255_000181.html" alt="" coords="89,74,173,116,171,121,87,79"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000255_000181.html" title="1" alt="" coords="169,102,176,117"/>
+<area shape="rect" id="node5" href="dir_469215ec156f530216e24b790d5149a6.html" title="oks" alt="" coords="267,126,309,152"/>
+<area shape="poly" id="edge3" href="dir_000255_000171.html" alt="" coords="89,70,253,123,251,128,87,75"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000255_000171.html" title="7" alt="" coords="248,109,255,124"/>
+<area shape="rect" id="node6" href="dir_74612d0701f8930964309a79d92afd69.html" title="oksdbinterfaces" alt="" coords="333,126,446,152"/>
+<area shape="poly" id="edge4" href="dir_000255_000176.html" alt="" coords="89,68,321,120,320,125,88,74"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000255_000176.html" title="5" alt="" coords="315,106,322,121"/>
+<area shape="rect" id="node7" href="dir_d825b831d5f4002527e46bb27072c2b3.html" title="logging" alt="" coords="470,126,533,152"/>
+<area shape="poly" id="edge6" href="dir_000255_000164.html" alt="" coords="88,66,237,86,455,123,455,128,237,91,88,71"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000255_000164.html" title="1" alt="" coords="450,109,457,124"/>
+<area shape="rect" id="clust1" href="dir_d89a5f77bb44f1112da63acbbb2847e8.html" title="oksconfig" alt="" coords="16,16,99,162"/>
+</map>

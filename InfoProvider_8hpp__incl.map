@@ -1,0 +1,16 @@
+<map id="sourcecode/opmonlib/include/opmonlib/InfoProvider.hpp" name="sourcecode/opmonlib/include/opmonlib/InfoProvider.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="281,5,502,46"/>
+<area shape="rect" id="Node000002" href="$InfoCollector_8hpp.html" title=" " alt="" coords="243,94,417,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="378,48,351,83,347,80,374,45"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="504,168,575,193"/>
+<area shape="poly" id="edge7_Node000001_Node000005" title=" " alt="" coords="412,44,519,155,515,158,408,48"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,168,135,193"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="287,123,130,166,128,160,285,118"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="159,168,213,193"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="307,123,225,163,223,158,304,118"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="366,118,490,160,488,165,365,123"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="237,168,290,193"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="321,122,287,158,283,154,317,118"/>
+<area shape="rect" id="Node000007" href="$JSONTags_8hpp.html" title=" " alt="" coords="314,168,480,193"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="343,118,377,154,373,158,339,122"/>
+</map>

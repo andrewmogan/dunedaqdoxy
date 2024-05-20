@@ -1,0 +1,5 @@
+<map id="dunedaq::oksconfig::OksConfigObject" name="dunedaq::oksconfig::OksConfigObject">
+<area shape="rect" id="Node000001" title=" " alt="" coords="24,94,155,135"/>
+<area shape="rect" id="Node000002" href="$classdunedaq_1_1oksdbinterfaces_1_1ConfigObjectImpl.html" title="Implements database objects." alt="" coords="5,5,174,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,62,92,94,87,94,87,62"/>
+</map>

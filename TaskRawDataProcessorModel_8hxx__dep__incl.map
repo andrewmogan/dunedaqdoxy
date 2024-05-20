@@ -1,0 +1,23 @@
+<map id="sourcecode/readoutlibs/include/readoutlibs/models/detail/TaskRawDataProcessorModel.hxx" name="sourcecode/readoutlibs/include/readoutlibs/models/detail/TaskRawDataProcessorModel.hxx">
+<area shape="rect" id="Node000001" title=" " alt="" coords="365,5,623,61"/>
+<area shape="rect" id="Node000002" href="$TaskRawDataProcessorModel_8hpp.html" title=" " alt="" coords="381,109,607,165"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="497,77,497,108,491,108,491,77"/>
+<area shape="rect" id="Node000003" href="$HSIFrameProcessor_8hpp.html" title=" " alt="" coords="5,213,196,253"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="367,171,184,215,182,209,365,166"/>
+<area shape="rect" id="Node000005" href="$Readoutlibs_8cpp.html" title=" " alt="" coords="220,213,376,253"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="425,174,340,215,338,210,422,169"/>
+<area shape="rect" id="Node000006" href="$TAProcessor_8hpp.html" title=" " alt="" coords="400,213,588,253"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="497,180,497,212,491,212,491,180"/>
+<area shape="rect" id="Node000008" href="$TCProcessor_8hpp.html" title=" " alt="" coords="612,213,800,253"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="570,169,663,210,660,215,568,174"/>
+<area shape="rect" id="Node000010" href="$TPProcessor_8hpp.html" title=" " alt="" coords="824,213,1012,253"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="622,164,829,209,828,215,621,169"/>
+<area shape="rect" id="Node000004" href="$HSIFrameProcessor_8cpp.html" title=" " alt="" coords="5,301,196,342"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="103,269,103,301,98,301,98,269"/>
+<area shape="rect" id="Node000007" href="$TAProcessor_8cpp.html" title=" " alt="" coords="420,301,568,342"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="497,269,497,301,491,301,491,269"/>
+<area shape="rect" id="Node000009" href="$TCProcessor_8cpp.html" title=" " alt="" coords="632,301,780,342"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="709,269,709,301,703,301,703,269"/>
+<area shape="rect" id="Node000011" href="$TPProcessor_8cpp.html" title=" " alt="" coords="844,301,992,342"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="921,269,921,301,915,301,915,269"/>
+</map>

@@ -1,0 +1,27 @@
+<map id="sourcecode/readoutlibs/include/readoutlibs/concepts/RawDataProcessorConcept.hpp" name="sourcecode/readoutlibs/include/readoutlibs/concepts/RawDataProcessorConcept.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="117,5,326,61"/>
+<area shape="rect" id="Node000002" href="$ReadoutModel_8hpp.html" title=" " alt="" coords="5,109,185,165"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,73,131,110,127,106,174,69"/>
+<area shape="rect" id="Node000003" href="$Readoutlibs_8cpp.html" title=" " alt="" coords="17,213,173,253"/>
+<area shape="poly" id="edge13_Node000001_Node000003" title=" " alt="" coords="224,77,217,121,210,145,199,166,172,194,142,214,139,210,169,190,194,163,205,143,212,120,219,76"/>
+<area shape="rect" id="Node000004" href="$TaskRawDataProcessorModel_8hpp.html" title=" " alt="" coords="326,109,552,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="295,65,382,106,379,111,292,70"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="98,180,98,212,92,212,92,180"/>
+<area shape="poly" id="edge6_Node000004_Node000003" title=" " alt="" coords="325,172,168,215,166,210,324,167"/>
+<area shape="rect" id="Node000005" href="$HSIFrameProcessor_8hpp.html" title=" " alt="" coords="197,213,388,253"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="385,175,324,214,322,210,383,171"/>
+<area shape="rect" id="Node000007" href="$TAProcessor_8hpp.html" title=" " alt="" coords="412,213,599,253"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="469,176,494,211,490,214,465,179"/>
+<area shape="rect" id="Node000009" href="$TCProcessor_8hpp.html" title=" " alt="" coords="624,213,811,253"/>
+<area shape="poly" id="edge9_Node000004_Node000009" title=" " alt="" coords="535,168,660,210,659,215,533,173"/>
+<area shape="rect" id="Node000011" href="$TPProcessor_8hpp.html" title=" " alt="" coords="836,213,1023,253"/>
+<area shape="poly" id="edge11_Node000004_Node000011" title=" " alt="" coords="568,160,836,211,835,216,567,165"/>
+<area shape="rect" id="Node000006" href="$HSIFrameProcessor_8cpp.html" title=" " alt="" coords="197,301,388,342"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="295,269,295,301,290,301,290,269"/>
+<area shape="rect" id="Node000008" href="$TAProcessor_8cpp.html" title=" " alt="" coords="432,301,579,342"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="508,269,508,301,503,301,503,269"/>
+<area shape="rect" id="Node000010" href="$TCProcessor_8cpp.html" title=" " alt="" coords="644,301,791,342"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="720,269,720,301,715,301,715,269"/>
+<area shape="rect" id="Node000012" href="$TPProcessor_8cpp.html" title=" " alt="" coords="856,301,1003,342"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="932,269,932,301,927,301,927,269"/>
+</map>

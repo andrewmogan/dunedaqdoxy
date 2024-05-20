@@ -1,0 +1,11 @@
+<map id="sourcecode/dbe/src/internal/messenger_proxy.cpp" name="sourcecode/dbe/src/internal/messenger_proxy.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="64,5,200,61"/>
+<area shape="rect" id="Node000002" href="$messenger__proxy_8hpp.html" title=" " alt="" coords="46,109,218,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,61,135,93,129,93,129,61"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,183,75,208"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="118,137,69,175,66,171,115,133"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="99,183,165,208"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="135,135,135,167,129,167,129,135"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="188,183,295,208"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="152,133,212,172,209,176,149,137"/>
+</map>

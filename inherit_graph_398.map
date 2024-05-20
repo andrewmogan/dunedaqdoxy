@@ -1,0 +1,15 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classtriggeralgs_1_1TriggerCandidateMaker.html" title=" " alt="" coords="5,169,191,210"/>
+<area shape="rect" id="Node000001" href="$classtriggeralgs_1_1TriggerCandidateMakerADCSimpleWindow.html" title=" " alt="" coords="239,5,424,46"/>
+<area shape="poly" id="edge361_Node000000_Node000001" title=" " alt="" coords="125,156,174,106,205,80,237,57,262,44,264,49,240,61,208,84,178,109,128,159"/>
+<area shape="rect" id="Node000002" href="$classtriggeralgs_1_1TriggerCandidateMakerHorizontalMuon.html" title=" " alt="" coords="239,71,424,111"/>
+<area shape="poly" id="edge362_Node000000_Node000002" title=" " alt="" coords="153,160,238,122,269,109,271,114,240,127,156,165"/>
+<area shape="rect" id="Node000003" href="$classtriggeralgs_1_1TriggerCandidateMakerMichelElectron.html" title=" " alt="" coords="239,136,424,177"/>
+<area shape="poly" id="edge363_Node000000_Node000003" title=" " alt="" coords="206,172,238,167,238,172,207,177"/>
+<area shape="rect" id="Node000004" href="$classtriggeralgs_1_1TriggerCandidateMakerPlaneCoincidence.html" title=" " alt="" coords="239,201,424,242"/>
+<area shape="poly" id="edge364_Node000000_Node000004" title=" " alt="" coords="207,202,238,206,238,212,206,207"/>
+<area shape="rect" id="Node000005" href="$classtriggeralgs_1_1TriggerCandidateMakerPrescale.html" title=" " alt="" coords="239,267,424,307"/>
+<area shape="poly" id="edge365_Node000000_Node000005" title=" " alt="" coords="157,215,240,251,272,264,270,269,238,256,155,219"/>
+<area shape="rect" id="Node000006" href="$classtriggeralgs_1_1TriggerCandidateMakerSupernova.html" title=" " alt="" coords="239,332,424,373"/>
+<area shape="poly" id="edge366_Node000000_Node000006" title=" " alt="" coords="129,220,178,269,208,294,240,317,264,329,262,334,237,321,205,299,174,273,125,223"/>
+</map>

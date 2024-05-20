@@ -1,0 +1,21 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classdunedaq_1_1readoutlibs_1_1RawDataProcessorConcept.html" title=" " alt="" coords="5,165,193,221"/>
+<area shape="rect" id="Node000001" href="$classdunedaq_1_1readoutlibs_1_1TaskRawDataProcessorModel.html" title=" " alt="" coords="241,5,462,61"/>
+<area shape="poly" id="edge136_Node000000_Node000001" title=" " alt="" coords="136,153,183,110,239,71,262,59,265,64,242,75,187,115,140,157"/>
+<area shape="rect" id="Node000003" href="$classdunedaq_1_1readoutlibs_1_1TaskRawDataProcessorModel.html" title=" " alt="" coords="250,85,453,141"/>
+<area shape="poly" id="edge138_Node000000_Node000003" title=" " alt="" coords="203,158,260,139,262,144,204,163"/>
+<area shape="rect" id="Node000005" href="$classdunedaq_1_1readoutlibs_1_1TaskRawDataProcessorModel.html" title=" " alt="" coords="250,165,453,221"/>
+<area shape="poly" id="edge140_Node000000_Node000005" title=" " alt="" coords="208,191,249,191,249,196,208,196"/>
+<area shape="rect" id="Node000007" href="$classdunedaq_1_1readoutlibs_1_1TaskRawDataProcessorModel.html" title=" " alt="" coords="248,245,455,301"/>
+<area shape="poly" id="edge142_Node000000_Node000007" title=" " alt="" coords="204,224,262,242,260,247,203,229"/>
+<area shape="rect" id="Node000009" href="$classdunedaq_1_1readoutlibs_1_1TaskRawDataProcessorModel.html" title=" " alt="" coords="250,325,453,381"/>
+<area shape="poly" id="edge144_Node000000_Node000009" title=" " alt="" coords="140,230,187,272,242,311,265,322,262,327,239,315,183,276,136,234"/>
+<area shape="rect" id="Node000002" href="$classdunedaq_1_1hsilibs_1_1HSIFrameProcessor.html" title=" " alt="" coords="518,13,697,54"/>
+<area shape="poly" id="edge137_Node000001_Node000002" title=" " alt="" coords="478,31,517,31,517,36,478,36"/>
+<area shape="rect" id="Node000004" href="$classdunedaq_1_1trigger_1_1TAProcessor.html" title=" " alt="" coords="510,100,704,126"/>
+<area shape="poly" id="edge139_Node000003_Node000004" title=" " alt="" coords="469,111,510,111,510,116,469,116"/>
+<area shape="rect" id="Node000006" href="$classdunedaq_1_1trigger_1_1TCProcessor.html" title=" " alt="" coords="510,180,704,206"/>
+<area shape="poly" id="edge141_Node000005_Node000006" title=" " alt="" coords="469,191,510,191,510,196,469,196"/>
+<area shape="rect" id="Node000008" href="$classdunedaq_1_1trigger_1_1TPProcessor.html" title=" " alt="" coords="510,260,704,286"/>
+<area shape="poly" id="edge143_Node000007_Node000008" title=" " alt="" coords="471,271,509,271,509,276,471,276"/>
+</map>

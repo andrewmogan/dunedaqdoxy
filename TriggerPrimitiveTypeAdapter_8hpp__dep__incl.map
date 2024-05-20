@@ -1,0 +1,13 @@
+<map id="sourcecode/trigger/include/trigger/TriggerPrimitiveTypeAdapter.hpp" name="sourcecode/trigger/include/trigger/TriggerPrimitiveTypeAdapter.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="226,5,428,61"/>
+<area shape="rect" id="Node000002" href="$TPProcessor_8hpp.html" title=" " alt="" coords="5,109,193,150"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="248,70,148,111,146,106,246,65"/>
+<area shape="rect" id="Node000004" href="$TPRequestHandler_8hpp.html" title=" " alt="" coords="216,109,438,150"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="330,77,330,109,324,109,324,77"/>
+<area shape="rect" id="Node000006" href="$TPSetSourceModel_8hpp.html" title=" " alt="" coords="462,109,686,150"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="414,64,523,106,521,111,412,69"/>
+<area shape="rect" id="Node000003" href="$TPProcessor_8cpp.html" title=" " alt="" coords="25,198,173,238"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="102,165,102,197,96,197,96,165"/>
+<area shape="rect" id="Node000005" href="$TPRequestHandler_8cpp.html" title=" " alt="" coords="236,198,418,238"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="330,165,330,197,324,197,324,165"/>
+</map>

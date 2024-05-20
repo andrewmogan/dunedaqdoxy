@@ -1,0 +1,47 @@
+<map id="sourcecode/readoutlibs/include/readoutlibs/FrameErrorRegistry.hpp" name="sourcecode/readoutlibs/include/readoutlibs/FrameErrorRegistry.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1035,5,1237,61"/>
+<area shape="rect" id="Node000002" href="$HSIFrameProcessor_8hpp.html" title=" " alt="" coords="1041,220,1231,261"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1139,76,1139,220,1133,220,1133,76"/>
+<area shape="rect" id="Node000004" href="$DefaultRequestHandlerModel_8hpp.html" title=" " alt="" coords="672,109,891,165"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="1027,68,877,111,876,106,1026,63"/>
+<area shape="rect" id="Node000005" href="$DefaultSkipListRequestHandler_8hpp.html" title=" " alt="" coords="76,213,308,268"/>
+<area shape="poly" id="edge12_Node000001_Node000005" title=" " alt="" coords="1020,51,850,76,661,112,454,163,279,215,277,209,453,158,659,106,849,71,1020,46"/>
+<area shape="rect" id="Node000006" href="$TPRequestHandler_8hpp.html" title=" " alt="" coords="5,316,227,357"/>
+<area shape="poly" id="edge27_Node000001_Node000006" title=" " alt="" coords="1020,37,780,46,636,56,490,71,350,94,227,125,174,143,129,164,92,188,66,214,60,226,58,239,65,266,80,292,98,314,94,318,76,295,60,268,53,239,55,224,62,211,89,184,126,160,172,138,225,120,349,89,489,66,636,50,779,40,1020,32"/>
+<area shape="rect" id="Node000011" href="$ReadoutModel_8hpp.html" title=" " alt="" coords="917,109,1096,165"/>
+<area shape="poly" id="edge13_Node000001_Node000011" title=" " alt="" coords="1091,73,1043,110,1040,106,1088,69"/>
+<area shape="rect" id="Node000012" href="$TaskRawDataProcessorModel_8hpp.html" title=" " alt="" coords="1322,109,1547,165"/>
+<area shape="poly" id="edge15_Node000001_Node000012" title=" " alt="" coords="1231,64,1355,106,1354,111,1230,69"/>
+<area shape="rect" id="Node000014" href="$TAProcessor_8cpp.html" title=" " alt="" coords="1608,316,1755,357"/>
+<area shape="poly" id="edge24_Node000001_Node000014" title=" " alt="" coords="1252,39,1442,56,1551,70,1661,88,1766,110,1858,138,1932,171,1960,190,1981,211,1990,226,1994,240,1993,253,1988,265,1965,285,1932,301,1890,313,1845,322,1756,333,1755,328,1844,317,1889,308,1930,296,1963,281,1983,262,1988,252,1989,241,1985,228,1977,214,1957,194,1929,176,1856,143,1764,115,1660,93,1550,75,1441,61,1252,44"/>
+<area shape="rect" id="Node000016" href="$TCProcessor_8cpp.html" title=" " alt="" coords="1316,316,1463,357"/>
+<area shape="poly" id="edge25_Node000001_Node000016" title=" " alt="" coords="1170,71,1375,314,1371,318,1166,75"/>
+<area shape="rect" id="Node000018" href="$TPProcessor_8cpp.html" title=" " alt="" coords="1890,316,2038,357"/>
+<area shape="poly" id="edge26_Node000001_Node000018" title=" " alt="" coords="1252,37,1404,46,1577,60,1738,80,1803,93,1853,106,1904,124,1944,142,1977,168,2006,212,2013,240,2008,269,1996,295,1982,317,1977,314,1991,293,2003,267,2008,240,2002,214,1973,172,1941,147,1902,129,1851,112,1802,98,1737,85,1577,66,1404,51,1252,42"/>
+<area shape="rect" id="Node000003" href="$HSIFrameProcessor_8cpp.html" title=" " alt="" coords="1048,316,1238,357"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1141,276,1144,316,1139,316,1136,277"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="657,159,320,215,309,218,308,212,320,210,656,154"/>
+<area shape="rect" id="Node000008" href="$EmptyFragmentRequestHandlerModel_8hpp.html" title=" " alt="" coords="647,213,916,268"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="784,180,784,212,779,212,779,180"/>
+<area shape="rect" id="Node000009" href="$Readoutlibs_8cpp.html" title=" " alt="" coords="868,316,1023,357"/>
+<area shape="poly" id="edge11_Node000004_Node000009" title=" " alt="" coords="883,170,909,188,930,211,943,237,950,266,950,316,945,316,944,266,938,239,926,214,905,192,880,175"/>
+<area shape="rect" id="Node000010" href="$ZeroCopyRecordingRequestHandlerModel_8hpp.html" title=" " alt="" coords="332,213,623,268"/>
+<area shape="poly" id="edge9_Node000004_Node000010" title=" " alt="" coords="687,172,560,215,558,209,685,167"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="162,282,134,318,130,314,158,279"/>
+<area shape="rect" id="Node000007" href="$TPRequestHandler_8cpp.html" title=" " alt="" coords="25,405,207,446"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="119,373,119,405,113,405,113,373"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="843,274,912,313,910,318,840,278"/>
+<area shape="poly" id="edge10_Node000010_Node000009" title=" " alt="" coords="628,269,868,317,867,322,627,274"/>
+<area shape="poly" id="edge14_Node000011_Node000009" title=" " alt="" coords="999,180,975,269,956,317,951,315,969,267,994,179"/>
+<area shape="poly" id="edge16_Node000012_Node000002" title=" " alt="" coords="1342,172,1195,222,1193,217,1340,167"/>
+<area shape="poly" id="edge17_Node000012_Node000009" title=" " alt="" coords="1393,177,1325,226,1285,250,1244,271,1024,321,1023,316,1242,266,1283,245,1322,221,1389,173"/>
+<area shape="rect" id="Node000013" href="$TAProcessor_8hpp.html" title=" " alt="" coords="1568,220,1755,261"/>
+<area shape="poly" id="edge18_Node000012_Node000013" title=" " alt="" coords="1510,169,1618,217,1616,222,1508,174"/>
+<area shape="rect" id="Node000015" href="$TCProcessor_8hpp.html" title=" " alt="" coords="1356,220,1543,261"/>
+<area shape="poly" id="edge20_Node000012_Node000015" title=" " alt="" coords="1443,180,1449,220,1444,220,1438,181"/>
+<area shape="rect" id="Node000017" href="$TPProcessor_8hpp.html" title=" " alt="" coords="1780,220,1967,261"/>
+<area shape="poly" id="edge22_Node000012_Node000017" title=" " alt="" coords="1563,164,1767,210,1796,217,1795,222,1766,215,1562,169"/>
+<area shape="poly" id="edge19_Node000013_Node000014" title=" " alt="" coords="1671,275,1680,315,1675,317,1666,277"/>
+<area shape="poly" id="edge21_Node000015_Node000016" title=" " alt="" coords="1431,275,1404,317,1400,315,1427,272"/>
+<area shape="poly" id="edge23_Node000017_Node000018" title=" " alt="" coords="1905,270,1947,314,1943,318,1901,274"/>
+</map>

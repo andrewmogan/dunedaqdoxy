@@ -1,0 +1,33 @@
+<map id="sourcecode/dbe/include/dbe/view_common_interface.hpp" name="sourcecode/dbe/include/dbe/view_common_interface.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1255,5,1470,46"/>
+<area shape="rect" id="Node000002" href="$CustomTableView_8hpp.html" title=" " alt="" coords="1172,94,1353,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1330,58,1287,96,1283,92,1326,54"/>
+<area shape="rect" id="Node000014" href="$CustomTreeView_8hpp.html" title=" " alt="" coords="1377,94,1551,135"/>
+<area shape="poly" id="edge15_Node000001_Node000014" title=" " alt="" coords="1399,54,1442,92,1439,96,1395,58"/>
+<area shape="rect" id="Node000003" href="$TableTab_8hpp.html" title=" " alt="" coords="722,183,880,223"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1157,138,881,189,880,184,1156,133"/>
+<area shape="rect" id="Node000009" href="$CustomTableView_8cpp.html" title=" " alt="" coords="1564,360,1774,401"/>
+<area shape="poly" id="edge14_Node000002_Node000009" title=" " alt="" coords="1285,146,1314,184,1351,221,1416,266,1486,304,1553,334,1611,357,1609,362,1551,339,1484,309,1413,271,1347,225,1310,188,1280,149"/>
+<area shape="rect" id="Node000004" href="$MainWindow_8hpp.html" title=" " alt="" coords="722,271,880,312"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="804,239,804,271,798,271,798,239"/>
+<area shape="rect" id="Node000006" href="$TableTab_8cpp.html" title=" " alt="" coords="5,360,141,401"/>
+<area shape="poly" id="edge13_Node000003_Node000006" title=" " alt="" coords="707,229,152,363,142,365,141,360,151,357,706,224"/>
+<area shape="rect" id="Node000005" href="$Main_8cpp.html" title=" " alt="" coords="164,360,310,401"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="707,307,527,330,321,363,311,365,310,359,321,357,527,325,706,301"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="707,301,455,323,304,340,152,363,142,365,141,359,151,357,303,335,455,317,706,296"/>
+<area shape="rect" id="Node000007" href="$GraphView_8cpp.html" title=" " alt="" coords="334,360,503,401"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="707,317,504,362,503,357,706,312"/>
+<area shape="rect" id="Node000008" href="$MainWindow_8cpp.html" title=" " alt="" coords="527,360,696,401"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="745,321,656,362,653,357,743,316"/>
+<area shape="poly" id="edge8_Node000004_Node000009" title=" " alt="" coords="896,297,1190,319,1553,357,1564,359,1563,364,1553,363,1189,325,896,302"/>
+<area shape="rect" id="Node000010" href="$FileModel_8cpp.html" title=" " alt="" coords="721,360,881,401"/>
+<area shape="poly" id="edge9_Node000004_Node000010" title=" " alt="" coords="804,328,804,360,798,360,798,328"/>
+<area shape="rect" id="Node000011" href="$BatchChangeWidget_8cpp.html" title=" " alt="" coords="905,360,1121,401"/>
+<area shape="poly" id="edge10_Node000004_Node000011" title=" " alt="" coords="864,316,966,357,964,362,862,321"/>
+<area shape="rect" id="Node000012" href="$IncludeFileWidget_8cpp.html" title=" " alt="" coords="1146,360,1347,401"/>
+<area shape="poly" id="edge11_Node000004_Node000012" title=" " alt="" coords="896,309,1146,357,1145,362,895,314"/>
+<area shape="rect" id="Node000013" href="$ObjectEditor_8cpp.html" title=" " alt="" coords="1371,360,1540,401"/>
+<area shape="poly" id="edge12_Node000004_Node000013" title=" " alt="" coords="896,300,1108,323,1359,357,1371,359,1370,365,1358,363,1108,328,895,305"/>
+<area shape="rect" id="Node000015" href="$CustomTreeView_8cpp.html" title=" " alt="" coords="1362,183,1566,223"/>
+<area shape="poly" id="edge16_Node000014_Node000015" title=" " alt="" coords="1466,150,1466,182,1461,182,1461,150"/>
+</map>

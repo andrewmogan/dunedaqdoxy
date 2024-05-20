@@ -1,0 +1,19 @@
+<map id="sourcecode/appdal/src" name="sourcecode/appdal/src">
+<area shape="rect" id="node1" href="dir_3df600f1a93c88906f6cf786a985f538.html" title="include" alt="" coords="26,126,89,152"/>
+<area shape="rect" id="node2" href="dir_ddcfeaea4a898b45815dc8ebdeda53be.html" title="src" alt="" coords="48,52,88,78"/>
+<area shape="poly" id="edge1" href="dir_000238_000120.html" alt="" coords="69,79,64,111,59,110,64,78"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000238_000120.html" title="11" alt="" coords="63,101,77,116"/>
+<area shape="rect" id="node3" href="dir_469215ec156f530216e24b790d5149a6.html" title="oks" alt="" coords="112,126,155,152"/>
+<area shape="poly" id="edge2" href="dir_000238_000171.html" alt="" coords="81,76,114,113,110,116,77,80"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000238_000171.html" title="7" alt="" coords="113,99,120,114"/>
+<area shape="rect" id="node4" href="dir_74612d0701f8930964309a79d92afd69.html" title="oksdbinterfaces" alt="" coords="178,126,291,152"/>
+<area shape="poly" id="edge3" href="dir_000238_000176.html" alt="" coords="89,72,194,117,192,122,87,77"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000238_000176.html" title="10" alt="" coords="186,103,200,118"/>
+<area shape="rect" id="node5" href="dir_8137e434eaffd9326d036884f4336bc3.html" title="coredal" alt="" coords="315,126,378,152"/>
+<area shape="poly" id="edge4" href="dir_000238_000027.html" alt="" coords="89,69,300,122,299,127,88,74"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000238_000027.html" title="1" alt="" coords="296,109,303,124"/>
+<area shape="rect" id="node6" href="dir_d825b831d5f4002527e46bb27072c2b3.html" title="logging" alt="" coords="402,126,465,152"/>
+<area shape="poly" id="edge5" href="dir_000238_000164.html" alt="" coords="89,67,211,88,388,123,387,128,210,93,88,72"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000238_000164.html" title="10" alt="" coords="379,109,393,124"/>
+<area shape="rect" id="clust1" href="dir_6fe832535b3d6f016da2d99129c2dac5.html" title="appdal" alt="" coords="16,16,99,162"/>
+</map>

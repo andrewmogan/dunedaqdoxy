@@ -1,0 +1,17 @@
+<map id="sourcecode/ers/include/ers/LocalContext.hpp" name="sourcecode/ers/include/ers/LocalContext.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="71,5,226,46"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,94,92,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,49,77,86,74,82,122,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="115,94,182,120"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="151,46,151,78,146,78,146,46"/>
+<area shape="rect" id="Node000004" href="$Context_8hpp.html" title=" " alt="" coords="206,94,318,120"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="178,44,234,83,231,87,175,49"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="155,168,209,193"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="250,122,208,159,205,155,246,118"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="233,168,291,193"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="265,120,265,152,259,152,259,120"/>
+<area shape="rect" id="Node000007" href="$ers_2include_2ers_2Configuration_8hpp.html" title=" " alt="" coords="315,168,457,193"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="284,118,353,157,351,162,282,123"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="350,241,422,267"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="389,194,389,226,383,226,383,194"/>
+</map>

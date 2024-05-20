@@ -1,0 +1,17 @@
+<map id="sourcecode/detchannelmaps/src/PD2HDChannelMapSP.cpp" name="sourcecode/detchannelmaps/src/PD2HDChannelMapSP.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="254,5,459,46"/>
+<area shape="rect" id="Node000002" href="$PD2HDChannelMapSP_8h.html" title=" " alt="" coords="86,94,251,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="311,49,212,90,210,85,309,44"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="276,94,347,120"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="348,48,328,82,323,79,343,45"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="371,94,436,120"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="370,45,390,79,386,82,366,48"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="460,94,528,120"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="392,44,461,84,459,88,389,49"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,168,116,193"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="152,122,93,161,90,156,149,118"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="140,168,197,193"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="171,120,171,152,166,152,166,120"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="222,168,299,193"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="186,118,235,156,232,160,182,122"/>
+</map>

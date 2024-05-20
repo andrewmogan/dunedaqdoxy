@@ -1,0 +1,13 @@
+<map id="sourcecode/ers/include/ers/Schema.hpp" name="sourcecode/ers/include/ers/Schema.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="95,5,251,46"/>
+<area shape="rect" id="Node000002" href="$Schema_8cpp.html" title=" " alt="" coords="5,94,138,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,58,96,96,93,92,137,54"/>
+<area shape="rect" id="Node000003" href="$ERSPublisher_8hpp.html" title=" " alt="" coords="161,94,390,135"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="210,54,254,92,251,96,206,58"/>
+<area shape="rect" id="Node000004" href="$ERSPublisher_8cpp.html" title=" " alt="" coords="109,183,261,223"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="246,147,207,184,203,180,242,143"/>
+<area shape="rect" id="Node000005" href="$ProtoBufStream_8hpp.html" title=" " alt="" coords="284,183,448,223"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="309,143,348,180,344,184,305,147"/>
+<area shape="rect" id="Node000006" href="$ProtoBufStream_8cpp.html" title=" " alt="" coords="284,271,448,312"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="369,239,369,271,364,271,364,239"/>
+</map>

@@ -1,0 +1,21 @@
+<map id="dbe::ObjectCreator" name="dbe::ObjectCreator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="851,109,979,135"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="238,202,309,228"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="325,217,420,221,547,219,617,213,688,202,758,187,826,166,861,150,891,133,894,137,863,155,828,171,760,192,689,208,617,218,547,224,420,227,325,222"/>
+<area shape="rect" id="Node000007" href="$classdbe_1_1ObjectEditor.html" title=" " alt="" coords="526,166,645,192"/>
+<area shape="poly" id="edge7_Node000007_Node000002" title=" " alt="" coords="325,207,525,183,526,188,325,212"/>
+<area shape="rect" id="Node000003" href="$structdunedaq_1_1oksdbinterfaces_1_1class__t.html" title=" " alt="" coords="501,36,670,77"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="686,71,827,99,857,106,856,111,826,104,685,77"/>
+<area shape="rect" id="Node000004" href="$structdunedaq_1_1oksdbinterfaces_1_1relationship__t.html" title=" " alt="" coords="501,101,670,142"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="685,119,850,119,850,124,685,124"/>
+<area shape="rect" id="Node000005" href="$classdbe_1_1FileModel.html" title=" " alt="" coords="222,50,326,76"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="340,46,417,32,501,22,586,16,670,22,751,29,785,37,828,54,870,79,902,106,898,110,867,84,825,59,784,43,750,35,669,27,586,22,502,27,418,38,341,51"/>
+<area shape="poly" id="edge10_Node000007_Node000005" title=" " alt="" coords="328,79,478,139,502,151,536,163,535,168,500,156,476,144,326,84"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="5,50,153,76"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="168,60,221,60,221,66,168,66"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="660,166,826,139,858,133,860,138,827,145,661,172"/>
+<area shape="rect" id="Node000008" href="$classdbe_1_1CustomFileView.html" title=" " alt="" coords="202,140,345,165"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="361,157,526,171,525,177,361,162"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="33,140,125,165"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="140,150,202,150,202,155,140,155"/>
+</map>

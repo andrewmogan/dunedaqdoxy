@@ -1,0 +1,31 @@
+<map id="sourcecode/timing/include/timing/HSINode.hpp" name="sourcecode/timing/include/timing/HSINode.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="471,5,643,46"/>
+<area shape="rect" id="Node000002" href="$BoreasDesign_8hpp.html" title=" " alt="" coords="5,183,178,223"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="456,40,349,60,293,76,239,96,203,116,168,139,114,184,110,180,165,135,200,111,237,92,291,71,348,55,455,35"/>
+<area shape="rect" id="Node000005" href="$ChronosDesign_8hpp.html" title=" " alt="" coords="442,183,618,223"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="554,62,536,183,530,182,549,61"/>
+<area shape="rect" id="Node000007" href="$HSIDesignInterface_8hpp.html" title=" " alt="" coords="250,94,453,135"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="497,55,399,96,397,91,495,50"/>
+<area shape="rect" id="Node000010" href="$PDIHSIEndpointNode_8hpp.html" title=" " alt="" coords="627,94,841,135"/>
+<area shape="poly" id="edge12_Node000001_Node000010" title=" " alt="" coords="612,51,695,91,693,96,609,55"/>
+<area shape="rect" id="Node000011" href="$endpoint_8cpp.html" title=" " alt="" coords="642,183,829,223"/>
+<area shape="poly" id="edge15_Node000001_Node000011" title=" " alt="" coords="572,59,590,97,617,133,651,160,688,180,686,185,648,164,614,137,586,100,567,62"/>
+<area shape="rect" id="Node000013" href="$HSINode_8cpp.html" title=" " alt="" coords="865,94,1014,135"/>
+<area shape="poly" id="edge16_Node000001_Node000013" title=" " alt="" coords="659,47,865,94,864,99,658,52"/>
+<area shape="rect" id="Node000003" href="$top__designs_8cpp.html" title=" " alt="" coords="433,271,619,312"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="193,222,433,269,432,274,192,227"/>
+<area shape="rect" id="Node000004" href="$BoreasDesign_8cpp.html" title=" " alt="" coords="17,271,166,312"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="94,239,94,271,89,271,89,239"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="531,239,530,271,524,271,526,239"/>
+<area shape="rect" id="Node000006" href="$ChronosDesign_8cpp.html" title=" " alt="" coords="644,271,793,312"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="588,228,677,268,675,273,586,233"/>
+<area shape="poly" id="edge8_Node000007_Node000002" title=" " alt="" coords="279,142,152,185,150,180,277,137"/>
+<area shape="poly" id="edge9_Node000007_Node000005" title=" " alt="" coords="407,139,491,180,489,185,405,144"/>
+<area shape="rect" id="Node000008" href="$TimingHardwareManager_8hpp.html" title=" " alt="" coords="202,183,418,223"/>
+<area shape="poly" id="edge10_Node000007_Node000008" title=" " alt="" coords="338,150,322,183,317,181,333,148"/>
+<area shape="rect" id="Node000009" href="$TimingHardwareManager_8cpp.html" title=" " alt="" coords="193,271,409,312"/>
+<area shape="poly" id="edge11_Node000008_Node000009" title=" " alt="" coords="309,239,306,271,300,271,304,239"/>
+<area shape="poly" id="edge13_Node000010_Node000011" title=" " alt="" coords="737,150,738,182,733,182,732,150"/>
+<area shape="rect" id="Node000012" href="$PDIHSIEndpointNode_8cpp.html" title=" " alt="" coords="853,183,1029,223"/>
+<area shape="poly" id="edge14_Node000010_Node000012" title=" " alt="" coords="796,139,895,180,893,185,794,143"/>
+</map>

@@ -1,0 +1,35 @@
+<map id="sourcecode/appfwk/src" name="sourcecode/appfwk/src">
+<area shape="rect" id="node1" href="dir_ea62229d68723189108c6a4052cbc047.html" title="include" alt="" coords="37,210,99,236"/>
+<area shape="poly" id="edge8" href="dir_000239_000121.html" alt="" coords="76,90,58,111,44,138,41,155,44,172,54,196,49,198,39,174,35,155,39,136,54,108,72,87"/>
+<area shape="rect" id="edge8-headlabel" href="dir_000239_000121.html" title="9" alt="" coords="53,182,60,197"/>
+<area shape="rect" id="node3" href="dir_761aeee9478967db7af6b323d11fef3f.html" title="detail" alt="" coords="54,137,106,162"/>
+<area shape="poly" id="edge5" href="dir_000239_000043.html" alt="" coords="88,89,85,121,80,121,83,88"/>
+<area shape="rect" id="edge5-headlabel" href="dir_000239_000043.html" title="2" alt="" coords="88,112,95,127"/>
+<area shape="rect" id="node4" href="dir_0a1713e4fb81d523db81c567ef556d2d.html" title="ers" alt="" coords="139,137,178,162"/>
+<area shape="poly" id="edge1" href="dir_000239_000103.html" alt="" coords="100,86,138,124,134,128,96,90"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000239_000103.html" title="3" alt="" coords="136,110,143,125"/>
+<area shape="rect" id="node5" href="dir_4d5c630caed4d7cee3977706f3383cd7.html" title="cmdlib" alt="" coords="202,137,262,162"/>
+<area shape="poly" id="edge2" href="dir_000239_000021.html" alt="" coords="107,84,195,127,192,132,105,89"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000239_000021.html" title="2" alt="" coords="191,113,198,128"/>
+<area shape="rect" id="node6" href="dir_54a85b0ba73149a656becc2d555f9f9e.html" title="opmonlib" alt="" coords="286,137,359,162"/>
+<area shape="poly" id="edge3" href="dir_000239_000183.html" alt="" coords="107,80,272,130,270,135,105,86"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000239_000183.html" title="3" alt="" coords="267,116,274,131"/>
+<area shape="rect" id="node7" href="dir_74612d0701f8930964309a79d92afd69.html" title="oksdbinterfaces" alt="" coords="383,137,497,162"/>
+<area shape="poly" id="edge4" href="dir_000239_000176.html" alt="" coords="107,78,369,131,368,136,106,84"/>
+<area shape="rect" id="edge4-headlabel" href="dir_000239_000176.html" title="3" alt="" coords="363,117,370,132"/>
+<area shape="rect" id="node9" href="dir_bd573d70419336b23551d1d967e5b64a.html" title="utilities" alt="" coords="521,137,583,162"/>
+<area shape="poly" id="edge6" href="dir_000239_000287.html" alt="" coords="106,76,268,95,384,112,506,134,505,139,383,117,267,100,106,82"/>
+<area shape="rect" id="edge6-headlabel" href="dir_000239_000287.html" title="1" alt="" coords="501,120,508,135"/>
+<area shape="rect" id="node10" href="dir_d825b831d5f4002527e46bb27072c2b3.html" title="logging" alt="" coords="417,210,479,236"/>
+<area shape="poly" id="edge7" href="dir_000239_000164.html" alt="" coords="106,75,215,81,371,92,517,110,569,121,597,135,605,154,597,174,576,195,550,209,522,218,495,223,494,217,521,213,548,204,573,191,592,172,600,154,593,139,567,126,516,115,371,97,215,86,106,81"/>
+<area shape="rect" id="edge7-headlabel" href="dir_000239_000164.html" title="3" alt="" coords="495,221,502,236"/>
+<area shape="poly" id="edge11" href="dir_000043_000121.html" alt="" coords="81,163,75,195,70,194,75,162"/>
+<area shape="rect" id="edge11-headlabel" href="dir_000043_000121.html" title="3" alt="" coords="78,186,85,201"/>
+<area shape="rect" id="node8" href="dir_b620d3bc325baca79d772d7a5b5e4e14.html" title="iomanager" alt="" coords="139,210,221,236"/>
+<area shape="poly" id="edge9" href="dir_000043_000156.html" alt="" coords="99,161,152,199,149,203,95,165"/>
+<area shape="rect" id="edge9-headlabel" href="dir_000043_000156.html" title="1" alt="" coords="150,185,157,200"/>
+<area shape="poly" id="edge10" href="dir_000043_000164.html" alt="" coords="103,160,128,170,201,189,276,202,402,216,401,222,276,208,200,194,126,176,101,165"/>
+<area shape="rect" id="edge10-headlabel" href="dir_000043_000164.html" title="2" alt="" coords="395,203,402,218"/>
+<area shape="rect" id="clust2" href="dir_a396fbf938a905438fb780a43d1a3ab2.html" alt="" coords="43,52,117,173"/>
+<area shape="rect" id="clust1" href="dir_21f361739d8867751cd2763b9903b707.html" title="appfwk" alt="" coords="16,16,128,247"/>
+</map>

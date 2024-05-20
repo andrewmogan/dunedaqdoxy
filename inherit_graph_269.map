@@ -1,0 +1,19 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$classdunedaq_1_1readoutlibs_1_1RequestHandlerConcept.html" title=" " alt="" coords="5,116,240,171"/>
+<area shape="rect" id="Node000001" href="$classdunedaq_1_1readoutlibs_1_1DefaultRequestHandlerModel.html" title=" " alt="" coords="294,5,538,76"/>
+<area shape="poly" id="edge147_Node000000_Node000001" title=" " alt="" coords="218,107,312,74,314,79,219,112"/>
+<area shape="rect" id="Node000003" href="$classdunedaq_1_1readoutlibs_1_1DefaultRequestHandlerModel.html" title=" " alt="" coords="288,101,544,186"/>
+<area shape="poly" id="edge149_Node000000_Node000003" title=" " alt="" coords="255,141,287,141,287,146,255,146"/>
+<area shape="rect" id="Node000004" href="$classdunedaq_1_1readoutlibs_1_1DefaultRequestHandlerModel.html" title=" " alt="" coords="299,210,533,266"/>
+<area shape="poly" id="edge150_Node000000_Node000004" title=" " alt="" coords="224,174,288,195,324,207,323,212,287,201,222,179"/>
+<area shape="rect" id="Node000002" href="$classdunedaq_1_1readoutlibs_1_1DefaultSkipListRequestHandler.html" title=" " alt="" coords="607,20,846,61"/>
+<area shape="poly" id="edge148_Node000001_Node000002" title=" " alt="" coords="553,38,607,38,607,43,553,43"/>
+<area shape="rect" id="Node000005" href="$classdunedaq_1_1readoutlibs_1_1DefaultSkipListRequestHandler.html" title=" " alt="" coords="622,130,831,186"/>
+<area shape="poly" id="edge151_Node000004_Node000005" title=" " alt="" coords="541,203,621,182,623,187,542,208"/>
+<area shape="rect" id="Node000007" href="$classdunedaq_1_1readoutlibs_1_1EmptyFragmentRequestHandlerModel.html" title=" " alt="" coords="592,210,861,266"/>
+<area shape="poly" id="edge153_Node000004_Node000007" title=" " alt="" coords="548,235,592,235,592,241,548,241"/>
+<area shape="rect" id="Node000008" href="$classdunedaq_1_1readoutlibs_1_1ZeroCopyRecordingRequestHandlerModel.html" title=" " alt="" coords="592,290,861,346"/>
+<area shape="poly" id="edge154_Node000004_Node000008" title=" " alt="" coords="542,268,616,287,615,292,541,273"/>
+<area shape="rect" id="Node000006" href="$classdunedaq_1_1trigger_1_1TPRequestHandler.html" title=" " alt="" coords="909,138,1093,178"/>
+<area shape="poly" id="edge152_Node000005_Node000006" title=" " alt="" coords="847,155,909,155,909,161,847,161"/>
+</map>

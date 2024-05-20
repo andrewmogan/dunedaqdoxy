@@ -1,0 +1,17 @@
+<map id="triggeralgs::TriggerActivityMaker" name="triggeralgs::TriggerActivityMaker">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,201,176,242"/>
+<area shape="rect" id="Node000002" href="$classtriggeralgs_1_1TriggerActivityMakerADCSimpleWindow.html" title=" " alt="" coords="224,5,394,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,186,156,122,187,87,222,57,243,44,246,49,225,61,191,91,160,125,114,190"/>
+<area shape="rect" id="Node000003" href="$classtriggeralgs_1_1TriggerActivityMakerDBSCAN.html" title=" " alt="" coords="224,71,394,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="126,189,171,155,222,122,248,109,250,114,225,127,174,159,129,194"/>
+<area shape="rect" id="Node000004" href="$classtriggeralgs_1_1TriggerActivityMakerHorizontalMuon.html" title=" " alt="" coords="224,136,394,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="174,194,237,175,239,180,176,199"/>
+<area shape="rect" id="Node000005" href="$classtriggeralgs_1_1TriggerActivityMakerMichelElectron.html" title=" " alt="" coords="224,201,394,242"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="191,219,223,219,223,224,191,224"/>
+<area shape="rect" id="Node000006" href="$classtriggeralgs_1_1TriggerActivityMakerPlaneCoincidence.html" title=" " alt="" coords="224,267,394,307"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="176,244,239,263,237,269,174,249"/>
+<area shape="rect" id="Node000007" href="$classtriggeralgs_1_1TriggerActivityMakerPrescale.html" title=" " alt="" coords="224,332,394,373"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="129,250,174,284,225,317,250,329,248,334,222,321,171,288,126,254"/>
+<area shape="rect" id="Node000008" href="$classtriggeralgs_1_1TriggerActivityMakerSupernova.html" title=" " alt="" coords="224,397,394,438"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="114,254,160,318,191,352,225,382,246,395,243,399,222,386,187,356,156,322,110,257"/>
+</map>

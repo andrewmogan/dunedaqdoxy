@@ -1,0 +1,17 @@
+<map id="sourcecode/readoutlibs/include/readoutlibs/concepts/ReadoutConcept.hpp" name="sourcecode/readoutlibs/include/readoutlibs/concepts/ReadoutConcept.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="278,5,468,61"/>
+<area shape="rect" id="Node000002" href="$InfoCollector_8hpp.html" title=" " alt="" coords="186,109,360,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="343,63,300,100,297,96,340,59"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="384,109,561,135"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="405,59,449,96,445,100,402,63"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,183,135,208"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="239,138,120,180,118,174,237,133"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="159,183,213,208"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="260,137,214,175,210,171,256,133"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="237,183,308,208"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="275,135,275,167,270,167,270,135"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="333,183,386,208"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="289,133,335,171,332,175,286,137"/>
+<area shape="rect" id="Node000007" href="$JSONTags_8hpp.html" title=" " alt="" coords="410,183,576,208"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="311,133,442,175,440,180,309,138"/>
+</map>

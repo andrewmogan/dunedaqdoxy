@@ -1,0 +1,5 @@
+<map id="dunedaq::oksdbinterfaces::CacheBase" name="dunedaq::oksdbinterfaces::CacheBase">
+<area shape="rect" id="Node000001" title="Defines base class for cache of template objects." alt="" coords="9,5,177,46"/>
+<area shape="rect" id="Node000002" href="$classdunedaq_1_1oksdbinterfaces_1_1Configuration_1_1Cache.html" title="Cache of template object of given type." alt="" coords="5,94,181,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,62,96,94,90,94,90,62"/>
+</map>

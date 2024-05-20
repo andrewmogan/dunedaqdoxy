@@ -1,0 +1,9 @@
+<map id="sourcecode/detchannelmaps/src/PD2HDChannelMapSP.h" name="sourcecode/detchannelmaps/src/PD2HDChannelMapSP.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="73,5,264,46"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,94,116,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,49,91,87,88,82,140,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="140,94,197,120"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="171,46,171,78,166,78,166,46"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="222,94,299,120"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="193,44,237,82,233,86,190,48"/>
+</map>

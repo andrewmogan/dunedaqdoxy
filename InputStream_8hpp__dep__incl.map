@@ -1,0 +1,14 @@
+<map id="sourcecode/ers/include/ers/InputStream.hpp" name="sourcecode/ers/include/ers/InputStream.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="303,5,459,46"/>
+<area shape="rect" id="Node000002" href="$NullStream_8hpp.html" title=" " alt="" coords="154,94,336,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="339,57,277,96,274,91,336,52"/>
+<area shape="rect" id="Node000005" href="$StreamManager_8cpp.html" title=" " alt="" coords="320,183,461,223"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="385,61,392,182,386,182,380,62"/>
+<area shape="rect" id="Node000006" href="$InputStream_8cpp.html" title=" " alt="" coords="419,94,551,135"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="418,54,463,92,460,96,414,58"/>
+<area shape="rect" id="Node000003" href="$OutputStream_8cpp.html" title=" " alt="" coords="5,183,138,223"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="193,144,112,185,109,180,191,140"/>
+<area shape="rect" id="Node000004" href="$StreamFactory_8cpp.html" title=" " alt="" coords="162,183,296,223"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="241,151,235,183,230,182,236,150"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="292,141,359,180,356,185,289,145"/>
+</map>

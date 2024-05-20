@@ -1,0 +1,11 @@
+<map id="sourcecode/trigger/src/trigger/LivetimeCounter.hpp" name="sourcecode/trigger/src/trigger/LivetimeCounter.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="47,5,253,46"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,94,66,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,49,67,87,64,83,120,44"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="90,94,136,120"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="143,48,128,81,123,78,139,45"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="161,94,217,120"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="162,45,179,79,174,81,157,48"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="241,94,294,120"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="181,44,238,83,235,87,178,49"/>
+</map>

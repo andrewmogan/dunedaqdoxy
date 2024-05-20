@@ -1,0 +1,10 @@
+<map id="sourcecode/readoutlibs/include/readoutlibs/models/detail/BinarySearchQueueModel.hxx" name="sourcecode/readoutlibs/include/readoutlibs/models/detail/BinarySearchQueueModel.hxx">
+<area shape="rect" id="Node000001" title=" " alt="" coords="43,5,276,61"/>
+<area shape="rect" id="Node000002" href="$BinarySearchQueueModel_8hpp.html" title=" " alt="" coords="60,109,259,165"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="162,77,162,108,157,108,157,77"/>
+<area shape="rect" id="Node000003" href="$FixedRateQueueModel_8hpp.html" title=" " alt="" coords="5,213,186,268"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="136,180,115,213,110,211,132,177"/>
+<area shape="rect" id="Node000004" href="$Readoutlibs_8cpp.html" title=" " alt="" coords="82,316,237,357"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="187,178,201,212,205,241,201,269,190,295,177,317,172,315,185,293,196,268,200,241,196,213,182,179"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="125,280,149,315,144,318,120,283"/>
+</map>

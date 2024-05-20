@@ -1,0 +1,31 @@
+<map id="sourcecode/oksdbinterfaces/include/oksdbinterfaces/ConfigurationImpl.hpp" name="sourcecode/oksdbinterfaces/include/oksdbinterfaces/ConfigurationImpl.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="402,5,586,61"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="677,271,730,297"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="587,38,665,46,746,60,816,80,842,92,860,107,872,130,871,154,860,177,842,198,794,237,744,266,741,262,791,232,839,194,856,174,866,153,866,132,856,111,839,97,814,85,745,65,664,51,586,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="567,190,624,216"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="525,60,546,82,564,108,580,141,591,174,586,176,575,143,560,110,541,85,521,63"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="379,109,417,135"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="466,63,424,100,421,96,462,59"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="441,109,480,135"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="486,62,473,95,468,93,481,60"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="504,109,550,135"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="507,60,519,93,514,95,502,62"/>
+<area shape="rect" id="Node000007" href="$map_8hpp.html" title=" " alt="" coords="5,109,172,135"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="402,57,161,108,160,103,401,52"/>
+<area shape="rect" id="Node000010" href="$set_8hpp.html" title=" " alt="" coords="196,109,355,135"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="426,64,321,105,319,100,424,59"/>
+<area shape="rect" id="Node000012" href="$ConfigVersion_8hpp.html" title=" " alt="" coords="625,109,846,135"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="570,59,688,101,686,106,569,64"/>
+<area shape="rect" id="Node000008" href="$string__ptr_8hpp.html" title=" " alt="" coords="185,183,334,223"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="116,133,204,173,202,178,114,138"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="33,190,144,216"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="91,135,91,174,86,174,86,135"/>
+<area shape="poly" id="edge8_Node000008_Node000002" title=" " alt="" coords="335,218,346,221,521,252,661,274,661,279,520,257,345,226,334,224"/>
+<area shape="poly" id="edge11_Node000010_Node000008" title=" " alt="" coords="275,136,269,168,264,167,270,135"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="358,190,462,216"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="297,133,377,180,375,184,294,137"/>
+<area shape="poly" id="edge15_Node000012_Node000002" title=" " alt="" coords="735,136,711,256,706,255,730,135"/>
+<area shape="poly" id="edge16_Node000012_Node000003" title=" " alt="" coords="715,137,631,185,629,180,713,133"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="741,190,794,216"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="742,134,759,175,754,177,738,136"/>
+</map>

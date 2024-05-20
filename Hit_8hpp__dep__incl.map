@@ -1,0 +1,14 @@
+<map id="sourcecode/triggeralgs/include/triggeralgs/dbscan/Hit.hpp" name="sourcecode/triggeralgs/include/triggeralgs/dbscan/Hit.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="256,5,432,61"/>
+<area shape="rect" id="Node000002" href="$dbscan_8hpp.html" title=" " alt="" coords="131,109,307,165"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="300,73,254,110,251,106,297,69"/>
+<area shape="rect" id="Node000005" href="$dbscan_8cpp.html" title=" " alt="" coords="264,220,424,261"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="347,76,347,220,341,220,341,76"/>
+<area shape="rect" id="Node000006" href="$Hit_8cpp.html" title=" " alt="" coords="381,117,534,157"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="387,70,437,114,434,118,384,74"/>
+<area shape="rect" id="Node000003" href="$TriggerActivityMakerDBSCAN_8hpp.html" title=" " alt="" coords="16,213,240,268"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="186,178,154,214,150,210,182,175"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="265,172,322,218,318,222,262,177"/>
+<area shape="rect" id="Node000004" href="$TriggerActivityMakerDBSCAN_8cpp.html" title=" " alt="" coords="5,316,251,357"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="131,284,131,316,125,316,125,284"/>
+</map>

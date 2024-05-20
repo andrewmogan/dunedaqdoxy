@@ -1,0 +1,12 @@
+<map id="sourcecode/readoutlibs/include/readoutlibs/detail/DataMoveCallbackRegistry.hxx" name="sourcecode/readoutlibs/include/readoutlibs/detail/DataMoveCallbackRegistry.hxx">
+<area shape="rect" id="Node000001" title=" " alt="" coords="120,5,323,61"/>
+<area shape="rect" id="Node000002" href="$DataMoveCallbackRegistry_8hpp.html" title=" " alt="" coords="124,109,320,165"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="224,77,224,108,219,108,219,77"/>
+<area shape="rect" id="Node000003" href="$ReadoutModel_8hpp.html" title=" " alt="" coords="5,213,185,268"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="177,177,131,214,127,210,174,173"/>
+<area shape="rect" id="Node000004" href="$Readoutlibs_8cpp.html" title=" " alt="" coords="80,316,235,357"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="220,181,212,224,199,269,174,317,169,314,194,267,207,223,214,180"/>
+<area shape="rect" id="Node000005" href="$DataMoveCallbackRegistry_8cpp.html" title=" " alt="" coords="259,220,486,261"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="276,171,345,217,342,222,273,176"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="124,280,147,315,143,318,119,283"/>
+</map>
