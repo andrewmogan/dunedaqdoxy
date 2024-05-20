@@ -10,6 +10,8 @@ jobs:
     defaults:
       run:
         shell: bash
+    env:
+      WORK_DIR: $GITHUB_WORKSPACE
 
     steps:
     - name: Checkout dunedaqdoxy
@@ -28,13 +30,11 @@ jobs:
       uses: mattnotmitt/doxygen-action@v1.1.0
       with:
         doxyfile-path: "./Doxyfile"
-        working-directory: "$GITHUB_WORKSPACE"
+        working-directory: ${{ env.WORK_DIR }}
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        # Default Doxyfile build documentation to html directory.
-        # Change the directory if changes in Doxyfile
         publish_dir: ./docs
 
