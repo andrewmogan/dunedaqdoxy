@@ -11,7 +11,7 @@ jobs:
       run:
         shell: bash
     env:
-      WORK_DIR: $GITHUB_WORKSPACE
+      WORK_DIR: /home/runner/work/dunedaqdoxy/dunedaqdoxy
 
     steps:
     - name: Checkout dunedaqdoxy
