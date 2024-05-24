@@ -2,12 +2,15 @@
 
 import os, sys
 import argparse
-from os.path import isdir, join
+from os.path import isdir, join, dirname, abspath
 
 def main(source_dir, build_dir):
     source_dirs = [join(source_dir, p) for p in os.listdir(source_dir) if isdir(join(source_dir, p))]
     build_dirs = [join(build_dir, p) for p in os.listdir(build_dir) if isdir(join(build_dir, p)) and p!='CMakeFiles']
     dirs = source_dirs + build_dirs
+
+    script_dir = dirname(abspath(__file__))
+    doxyfile_path = join(script_dir, "Doxyfile.in")
 
     with open("Doxyfile.in", 'r') as f:
         doxyfile = f.read()
@@ -16,7 +19,7 @@ def main(source_dir, build_dir):
     input_list = ['']
     for d in dirs:
         input_list += [
-            join(d, s) for s in ['include', 'src', 'pybindsrc', 'apps', 'docs', 'python', 'scripts', 'codegen']
+            join(d, s) for s in ['include', 'src', 'pybindsrc', 'apps', 'docs', 'python', 'scripts']
         ]
 
     # print(' \\\n'.join(input_list))
