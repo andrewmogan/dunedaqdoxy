@@ -25,10 +25,11 @@ def main(source_dir, build_dir):
     # print(' \\\n'.join(input_list))
     doxyfile = doxyfile.replace('@INPUT_LIST', ' \\\n'.join(input_list))
 
-    with open("Doxyfile", 'w') as f:
+    output_doxyfile_path = "Doxyfile"
+    with open(output_doxyfile_path, 'w') as f:
         f.write(doxyfile)
 
-
+    print('Doxyfile written to {abspath(output_doxyfile_path)}')
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="""
