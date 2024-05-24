@@ -29,7 +29,7 @@ def main(source_dir, build_dir):
     with open(output_doxyfile_path, 'w') as f:
         f.write(doxyfile)
 
-    print('Doxyfile written to {abspath(output_doxyfile_path)}')
+    print(f'Doxyfile written to {abspath(output_doxyfile_path)}')
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="""
