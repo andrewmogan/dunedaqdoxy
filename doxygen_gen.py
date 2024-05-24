@@ -12,7 +12,7 @@ def main(source_dir, build_dir):
     script_dir = dirname(abspath(__file__))
     doxyfile_path = join(script_dir, "Doxyfile.in")
 
-    with open("Doxyfile.in", 'r') as f:
+    with open(doxyfile_path, 'r') as f:
         doxyfile = f.read()
 
     # doxyfile.replace('@INPUT_LIST', str(dirs))
