@@ -4,7 +4,7 @@ import os, sys
 import argparse
 from os.path import isdir, join, dirname, abspath
 
-def main(source_dir, build_dir):
+def main(source_dir, build_dir, output_dir):
     source_dirs = [join(source_dir, p) for p in os.listdir(source_dir) if isdir(join(source_dir, p))]
     build_dirs = [join(build_dir, p) for p in os.listdir(build_dir) if isdir(join(build_dir, p)) and p!='CMakeFiles']
     dirs = source_dirs + build_dirs
@@ -25,7 +25,7 @@ def main(source_dir, build_dir):
     # print(' \\\n'.join(input_list))
     doxyfile = doxyfile.replace('@INPUT_LIST', ' \\\n'.join(input_list))
 
-    output_doxyfile_path = "Doxyfile"
+    output_doxyfile_path = output_dir+"/Doxyfile"
     with open(output_doxyfile_path, 'w') as f:
         f.write(doxyfile)
 
@@ -44,5 +44,8 @@ if __name__ == '__main__':
                         help='Path to sourcecode directory in a dbt environment')
     parser.add_argument('--build_dir', type=str, default=join(dbt_area_root, 'build'), 
                         help='Path to build directory in a dbt environment')
+    parser.add_argument('--output_dir', type=str, default='.', 
+                        help='Path where output Doxyfile will be written')
     args = parser.parse_args()
-    main(args.source_dir, args.build_dir)
+
+    main(args.source_dir, args.build_dir, args.output_dir)
