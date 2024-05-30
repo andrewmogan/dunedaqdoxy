@@ -19,8 +19,7 @@ def main(source_dir, build_dir, output_dir):
     input_list = ['']
     for d in dirs:
         input_list += [
-            #join(d, s) for s in ['include', 'src', 'pybindsrc', 'apps', 'docs', 'python', 'scripts', 'codegen']
-            join(d, s) for s in ['include', 'src', 'apps', 'docs', 'python', 'scripts', 'codegen']
+            join(d, s) for s in ['include', 'src', 'pybindsrc', 'apps', 'docs', 'python', 'scripts', 'codegen']
         ]
 
     # print(' \\\n'.join(input_list))
