@@ -4,7 +4,7 @@ import os, sys
 import argparse
 from os.path import isdir, join, dirname, abspath
 
-def main(source_dir, build_dir, output_dir, input_path_prefix):
+def main(source_dir, build_dir, output_dir):
     source_dirs = [join(source_dir, p) for p in os.listdir(source_dir) if isdir(join(source_dir, p))]
     build_dirs = [join(build_dir, p) for p in os.listdir(build_dir) if isdir(join(build_dir, p)) and p!='CMakeFiles']
     dirs = source_dirs + build_dirs
@@ -18,12 +18,9 @@ def main(source_dir, build_dir, output_dir, input_path_prefix):
     # doxyfile.replace('@INPUT_LIST', str(dirs))
     input_list = ['']
     for d in dirs:
-        paths = [
+        input_list += [
             join(d, s) for s in ['include', 'src', 'pybindsrc', 'apps', 'docs', 'python', 'scripts', 'codegen']
         ]
-        if input_path_prefix:
-            paths = [f"{input_path_prefix}/{path}" for path in paths]
-        input_list += paths
 
     # print(' \\\n'.join(input_list))
     doxyfile = doxyfile.replace('@INPUT_LIST', ' \\\n'.join(input_list))
@@ -49,8 +46,6 @@ if __name__ == '__main__':
                         help='Path to build directory in a dbt environment')
     parser.add_argument('--output_dir', type=str, default='.', 
                         help='Path where output Doxyfile will be written')
-    parser.add_argument('--input_path_prefix', type=str, default='', 
-                        help='Optional prefix for input paths, such as an environment variable')
     args = parser.parse_args()
 
-    main(args.source_dir, args.build_dir, args.output_dir, args.input_path_prefix)
+    main(args.source_dir, args.build_dir, args.output_dir)
